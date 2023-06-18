@@ -1,0 +1,12 @@
+{
+  "name": "didact",
+  "version": "3.0.0",
+  "description": "A didactic alternative to React",
+  "license": "MIT",
+  "repository": "pomber/didact",
+  "author": "pomber",
+  "main": "didact.js",
+  "keywords": [
+    "react"
+  ]
+}
